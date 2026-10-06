@@ -10,7 +10,7 @@ A simple and responsive **Currency Converter** web app built using **HTML, CSS, 
 ✅ Lightweight and fast  
 
 ## 🖥️ Demo  
-[Live Demo](#) (https://tauseef-110.github.io/Currency-Converter/)  
+[Live Demo](#) (https://tauseefaskari.github.io/Currency-Converter/)  
 
 ## ⚙️ Technologies Used  
 - HTML  
